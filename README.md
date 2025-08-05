@@ -5,7 +5,7 @@ To identify and understand the key factors driving customer churn in an e-commer
 
 **Dataset Overview**
 Source: Ecommerce Customer Churn Analysis and Prediction (Kaggle)
-Authpor: Ankit Verma
+Author: Ankit Verma
 
 **Size:** 
 ~5,600 customer records
